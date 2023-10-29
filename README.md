@@ -30,7 +30,8 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 ## Machine Learning Blogs
 
 - [What are some of the top machine learning algorithms used to predict future probabilities?](https://medium.com/@itsinterestingms/what-are-some-of-the-top-machine-learning-algorithms-used-to-predict-future-probabilities-660935b7da25)
--
+- [The Real World ML](https://coderpreneur.substack.com/publish/posts/detail/107806999?referrer=%2Fpublish%2Fposts%2Fpublished)
+
 
 ## Machine Learning Algorithms 
 
