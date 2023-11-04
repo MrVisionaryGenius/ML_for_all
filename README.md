@@ -29,6 +29,7 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 
 ## Machine Learning Blogs
 
+- [ML is not a sprint but a marathon](https://coderpreneur.substack.com/p/ml-is-not-a-sprint-but-a-marathon?utm_source=post-email-title&publication_id=1440693&post_id=138528251&utm_campaign=email-post-title&isFreemail=true&r=1nk33h&utm_medium=email)
 - [What are some of the top machine learning algorithms used to predict future probabilities?](https://medium.com/@itsinterestingms/what-are-some-of-the-top-machine-learning-algorithms-used-to-predict-future-probabilities-660935b7da25)
 - [The Real World ML](https://coderpreneur.substack.com/publish/posts/detail/107806999?referrer=%2Fpublish%2Fposts%2Fpublished)
 
