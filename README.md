@@ -35,6 +35,15 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 
 
 ## Machine Learning Algorithms 
+- [Linear Regression]()
+- [Logistic Regression]()
+- [Decision Trees ]()
+- [Bayes' theorem]()
+- [k-Nearest Neighbors (kNN)]()
+- [K-means]()
+- [Random forest]()
+- [Gradient boosting algorithms]()
+- [Any dimensionality reduction algorithm PCA]()
 
 
 ## Machine Learning Practice Code 
