@@ -11,6 +11,7 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 - Getting Started
 - Python Resource
 - Machine Learning Blogs
+- ML and MLOPS Dictionary
 - Machine Learning Algorithms
 - Machine Learning Practice Code
 - Maths for Machine Learning
@@ -33,6 +34,9 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 - [What are some of the top machine learning algorithms used to predict future probabilities?](https://medium.com/@itsinterestingms/what-are-some-of-the-top-machine-learning-algorithms-used-to-predict-future-probabilities-660935b7da25)
 - [The Real World ML](https://coderpreneur.substack.com/publish/posts/detail/107806999?referrer=%2Fpublish%2Fposts%2Fpublished)
 
+
+## ML and MLOPS
+-[All terms Dictionary for ML&MLOPS](https://www.hopsworks.ai/mlops-dictionary#P)
 
 ## Machine Learning Algorithms 
 - [Linear Regression]()
