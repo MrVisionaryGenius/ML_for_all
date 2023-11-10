@@ -67,7 +67,7 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 
 
 ## LLM + Fine Tuning 
-
+- [Learn Prompting](https://learnprompting.org/docs/intro)
 
 
 ## Reinforcement Learning
