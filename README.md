@@ -9,7 +9,7 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 ## Table of Contents
 
 - Getting Started
-- Python Resource
+- Resources
 - Machine Learning Blogs
 - ML and MLOPS Dictionary
 - Machine Learning Algorithms
@@ -24,9 +24,10 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 
 ## Getting Started
 
-## Python Resource
+## Resources
 
-- [Python for All](https://github.com/MrVisionaryGenius/Python_for_all/blob/main/README.md) 
+- [Python for All](https://github.com/MrVisionaryGenius/Python_for_all/blob/main/README.md)
+- [Free APIs that can be used in Projects](https://github.com/public-apis/public-apis)
 
 ## Machine Learning Blogs
 
