@@ -61,6 +61,7 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 
 
 ## Machine Learning Projects
+- [290+ Machine Learning Projects](https://medium.com/coders-camp/230-machine-learning-projects-with-python-5d0c7abf8265)
 
 
 
