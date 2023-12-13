@@ -28,6 +28,7 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 
 - [Python for All](https://github.com/MrVisionaryGenius/Python_for_all/blob/main/README.md)
 - [Free APIs that can be used in Projects](https://github.com/public-apis/public-apis)
+- [Machine Learning Interview Questions](https://github.com/khangich/machine-learning-interview/blob/master/faqs.md)
 
 ## Machine Learning Blogs
 
