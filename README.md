@@ -18,6 +18,7 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 - Machine Learning Projects
 - MLOPS
 - LLM + Fine Tuning
+- Testing
 - Reinforcement Learning
 
 --------
@@ -73,6 +74,8 @@ This is a comprehensive guide for learning Machine Learning. Whether you are a b
 ## LLM + Fine Tuning 
 - [Learn Prompting](https://learnprompting.org/docs/intro)
 
+## Testing
+- [A/B Testing in R](https://www.business-science.io/code-tools/2023/12/16/ab-testing-in-r.html?el=linkedin)
 
 ## Reinforcement Learning
 
